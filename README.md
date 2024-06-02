@@ -1,1 +1,2 @@
 # Calculator-Application-using-Class
+This Python script defines a simple calculator class, calci, with methods to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It also includes functions to calculate the square root, power, and the value of pi. The script provides an interactive command-line interface for users to choose and perform these operations.
